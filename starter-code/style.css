@@ -112,7 +112,7 @@ nav {
      color:white;
    }
 
-   .container{
+   #body_section1 .container{
      color:white;
      width: 1000px; 
      margin: 0 auto;
@@ -163,4 +163,29 @@ nav {
      width:25%;
  }
 
-       
+#body_section3 .cabecera{
+     width:600px;
+     margin:0 auto;
+     padding:100px;
+}
+
+#body_section3 .service-box{
+  float:left;
+  margin:::0 2%;
+  width:31%;
+  text-align:center;
+}
+.clearfix { clear: both; }
+
+#body_section3 .text{
+  padding:0 25%;
+}
+
+#body_section3 h2{
+  style:bold;
+  color:rgb(83, 88, 98);
+}
+
+#body_section3 .cabecera p{
+  color:rgb(135, 145, 156);
+}
