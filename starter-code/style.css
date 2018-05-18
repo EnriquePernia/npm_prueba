@@ -1,0 +1,166 @@
+nav {
+     background-color: #C12127;
+     color: rgba(255,255,255,0.8);
+     height: 30px;
+     padding-top: 15px;
+   }
+   
+   nav a {
+     color: rgba(255,255,255,0.8);
+     text-decoration: none;
+   }
+
+   .top-left{
+    display: inline-block;
+    float: left;
+    margin: 0 0 0 20px;
+   }
+
+   .top-links {
+     display: inline-block;
+     float: right;
+     padding: 0;
+     margin: 0 20px 0 0;
+     position: static;
+   }
+   
+   .top-links li {
+     display: inline-block;
+     margin: 0 10px;
+   }
+
+   #header .text{
+     margin-right: 45%;
+   }
+
+   #header{
+     background-image: url(/Users/enriqueperniagarcia/Documents/Ironhack/Prework/HTML-CSS/lab-html-module-exercise-master/starter-code/images/city-scape.svg);
+     background-size: 100%;
+     background-position-x:80%;
+     background-color: rgb(32, 101, 136);
+   }
+
+   #header .section1{
+       padding-top:20px;
+   }
+   
+  #header .section2{
+     color:white;
+     width: 800px; 
+     margin: 0 auto;
+     padding:100px;
+     
+   }
+
+   #header .link-btn{
+     border:2px  solid rgb(240, 146, 51);
+     background-color:rgb(240, 146, 51);
+     border-radius:20px;
+     border-width:8px 40px;
+     margin-top:10px;
+     text-decoration: none;
+     color:white;
+   }
+
+   #header .section1 .busqueda{
+        display:inline-block;
+        float:left;
+        width:75%;
+        height:30px;
+        background: rgb(31, 82, 111);
+        border:1px solid rgb(18, 56, 78)
+     }
+     
+   #header .section1 .imagen1{
+        display:inline-block;
+        float:left;
+        margin:0 15px;
+        
+   }
+
+   #header .section1 .imagen2{
+     display:inline-block;
+     float:none;
+     margin:0 10px;
+     
+}
+
+   #header .log{
+     display:inline-block;
+     float:left;
+     margin:0 20px;
+     color:white;
+     text-decoration: none;
+
+   }
+
+   #header .boton_busca{
+     display:inline-block;
+     float: left;
+     padding: 10px;
+     background: rgb(31, 82, 111);
+     color:rgb(31, 82, 111);
+     font-size: 17px;
+     border: 1px solid rgb(31, 82, 111);
+     cursor: pointer;
+     height:35px;
+     width:30px;
+   }
+
+   #body_section1{
+     background-color:rgb(39, 53, 71);
+     color:white;
+   }
+
+   .container{
+     color:white;
+     width: 1000px; 
+     margin: 0 auto;
+     padding:100px;
+   } 
+
+   .body_section1_text{
+     float:right;
+   }
+
+   .body_section1_text .title{
+     width:70%;
+   }
+
+  #body_section1 .link-btn{
+     border:2px  solid rgb(203, 56, 55);
+     background-color:rgb(203, 56, 55);
+     border-radius:20px;
+     border-width:8px 40px;
+     margin-top:10px;
+     text-decoration: none;
+     color:white;
+  }
+
+  #body_section1 .link{
+     color:white;
+     text-decoration: none;
+  }
+
+  #body_section2{
+       background-image: url("/Users/enriqueperniagarcia/Documents/Ironhack/Prework/HTML-CSS/lab-html-module-exercise-master/starter-code/images/forklift.svg");
+       background-size: cover;
+       padding:200px;
+       color:white;
+ }
+
+ #body_section2 .link-btn{
+     border:2px  solid  rgb(49, 68, 88);
+     background-color: rgb(49, 68, 88);
+     border-radius:20px;
+     border-width:8px 40px;
+     margin-top:10px;
+     text-decoration: none;
+     color:white;
+ }
+
+ #body_section2 .texto{
+     width:25%;
+ }
+
+       
